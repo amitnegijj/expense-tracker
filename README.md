@@ -40,6 +40,7 @@ Then open your browser at `http://localhost:5173`.
 
 - Fixed incorrect income/expense totals caused by string amounts being concatenated instead of summed
 - Converted all hardcoded transaction `amount` values from strings to numbers
+- more to come 
 
 ## Refactoring Done
 
